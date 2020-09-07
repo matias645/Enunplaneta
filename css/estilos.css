@@ -1,0 +1,15 @@
+body
+{
+  padding: 10px;
+  margin: 40px;
+  font-size: 24px;
+  font-family: Gabriola;
+  background-image: url(https://media.tenor.com/images/2136503915813d1335522abb40430695/tenor.gif);
+color:white;
+}
+
+nav
+{
+  background-color: white;
+  padding: 0px;
+  color:blue
